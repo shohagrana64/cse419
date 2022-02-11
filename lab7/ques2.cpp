@@ -28,4 +28,4 @@ return 0;
 
 /*Here GCD() is a function that finds
 the greatest common divisor of the two
-input numbers*
+input numbers*/
